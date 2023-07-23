@@ -1,4 +1,5 @@
 ### Olá me Chamo Douglas!😊✌️
+Todos os meus estudos estão disponiveis aqui. 
 <div>
 <img (https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) />
 </div>
