@@ -14,7 +14,7 @@ Tecnologias que eu uso no meu dia👨‍💻👨🏾‍💻⌨
     <img align="center" alt="htmll5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 <div>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, admirador das mudanças tecnologicas .
   
 </div>
 
