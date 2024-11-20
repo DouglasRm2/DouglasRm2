@@ -34,7 +34,7 @@
 <br>
 🏖️ Eu amo o verão 
 <br>
-🐩 Eu tenho 1 cachorrinha fêmea   
+🐩 Eu tenho uma cachorrinha fêmea   
 <br> 
 <br> 
     Estou sempre me aprimorando em <br>
