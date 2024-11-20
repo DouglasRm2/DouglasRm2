@@ -22,11 +22,7 @@
 </div>
 <br>
 <div>    </div>
-<h4>   Meu nome é Mackson, atualmente estou cursando Analise e Desenvolvimento de Sistema 
-  sou apaixonado <br> por tecnologia desde infância sempre gostei de computadores e projetos voltados 
-  para área da programação, <br>  gosto muito de projetos  voltados para dashboards analíticos
-  dinâmicos para acompanhar as metricas desenvolvidas <br> área de dados é uma paixão sem volta, 
-  busco sempre minha melhor evolução, onde tem inovação quero está por perto.
+<h4>  Gosto muito de observar gráficos e como cada gráfico se comporta em determinadas situações, estudo análise de dados me faz mais próximo do que eu realmente eu gosto de estudar e trabalhar, realizei vários projetos todos voltados para a respectiva área, gráficos mostram situações onde nunca imaginamos ver. Meu objetivo é poder sair de projetos de extensões e poder trabalhar na área quero poder ajudar empresas com minha visão analítica.
 
 </h4>
 
