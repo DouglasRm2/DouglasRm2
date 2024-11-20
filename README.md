@@ -17,7 +17,7 @@
 <img src="https://img.icons8.com/?size=100&id=Rffi8qeb2fK5&format=png&color=000000" style="max-width: 100%;">
 
 
-<img src="  https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" style="max-width: 100%;">
+<img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" style="max-width: 100%;">
 
 </div>
 <br>
