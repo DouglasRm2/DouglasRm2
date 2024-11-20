@@ -6,7 +6,7 @@
 
  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" style="max-width: 100%;">
  
- <img src="https://camo.githubusercontent.com/05cab52d05663cecbe47a23ca71075ba81b9080dd50561d0f76eb46e902cfef8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" alt="Pandas" data-canonical-src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" style="max-width: 100%;">
+ <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" style="max-width: 100%;">
  
  <img src="https://camo.githubusercontent.com/c044ae9d0419850e7f2385c22ea5de56e101e6a616789bd35d2d8fa137a63642/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465" alt="Caderno Jupyter" data-canonical-src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" style="max-width: 100%;">
  
