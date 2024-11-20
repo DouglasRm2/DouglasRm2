@@ -28,13 +28,14 @@
 
 
 <h2> -- Um pouco sobre mim -- </h2> 
-🇧🇷 Cara brasileiro 
+🇧🇷 Cara brasileiro  - casado
+
 <br>
 👶 Aniversário 20 de janeiro de 1996
 <br>
 🏖️ Eu amo o verão 
 <br>
-🐩 Eu tenho uma cachorrinha fêmea   
+🐩 Eu tenho uma cachorrinha
 <br> 
 <br> 
     Estou sempre me aprimorando em <br>
